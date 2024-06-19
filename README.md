@@ -1,6 +1,6 @@
-learning: TypeScript, React, NextJS
+# TIL: TypeScript, React, NextJS
 
-each branch has each practice content.
+each branch has each content.
 
 1. ts like-btn
-2. nestjs random-cat
+2. nextjs random-cat
