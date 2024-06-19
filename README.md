@@ -1,0 +1,1 @@
+learning: TypeScript, React, NextJS
